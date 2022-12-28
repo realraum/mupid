@@ -21,6 +21,11 @@ mupid has a [Z80A ](https://en.wikipedia.org/wiki/Zilog_Z80)CPU (8 bit, 4 MHz), 
 * Floppy disk images: ftp://ftp.informatik.uni-stuttgart.de/pub/cm/mupid/
 * A few original mupid C2A2, floppy drives, floppy disks, and tons of documentation on paper
 
+### What else did we find online?
+
+* There is [preliminary](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mupid2&lang=en) mupid support in MAME
+* There is a dockerized version of MAME called [DAME](https://github.com/Praqma/DAME) which could be useful
+* There are Debian/Ubuntu packages of mame, and even a [PPA](https://launchpad.net/~c.falco/+archive/ubuntu/mame) with the current stable version
 
 ### What do we need?
 
