@@ -36,3 +36,4 @@ mupid has a [Z80A ](https://en.wikipedia.org/wiki/Zilog_Z80)CPU (8 bit, 4 MHz), 
 
 * ideally, emulate an entire mupid accessible via WWW, either using something like noVNC, RustDesk or even running entirely in JavaScript on the client
 * a "BTX server" that can serve CEPT encoded BTX pages to a mupid. This could be a standalone Raspberry Pi, or a serial-to-https adapter requesting CEPT pages from a webserver.
+* eventually, an IP/SSL stack like [WolfSSL] (https://www.wolfssl.com/)
