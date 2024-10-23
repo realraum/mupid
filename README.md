@@ -26,6 +26,7 @@ mupid has a [Z80A ](https://en.wikipedia.org/wiki/Zilog_Z80)CPU (8 bit, 4 MHz), 
 * There is [preliminary](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mupid2&lang=en) mupid support in MAME
 * There is a dockerized version of MAME called [DAME](https://github.com/Praqma/DAME) which could be useful
 * There are Debian/Ubuntu packages of mame, and even a [PPA](https://launchpad.net/~c.falco/+archive/ubuntu/mame) with the current stable version
+* https://computermuseum.informatik.uni-stuttgart.de/dev/mupid/
 
 ### What do we need?
 
