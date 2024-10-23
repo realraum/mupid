@@ -28,6 +28,7 @@ mupid has a [Z80A ](https://en.wikipedia.org/wiki/Zilog_Z80)CPU (8 bit, 4 MHz), 
 * There are Debian/Ubuntu packages of mame, and even a [PPA](https://launchpad.net/~c.falco/+archive/ubuntu/mame) with the current stable version
 * https://computermuseum.informatik.uni-stuttgart.de/dev/mupid/
 * https://austria-forum.org/af/AEIOU/BTX_und_MUPID
+* https://much.isds.tugraz.at/projects/mupid_9/13.htm/
 
 ### What do we need?
 
