@@ -34,6 +34,7 @@ mupid has a [Z80A ](https://en.wikipedia.org/wiki/Zilog_Z80)CPU (8 bit, 4 MHz), 
 
 * digital copies of manuals, schematics, all the floppy disk images we can rip using [GreaseWeazle](https://github.com/keirf/greaseweazle)
 * images of the EPROMs on the mupid
+* https://www.daleske.de/projekte/prog/09_EMUZ80/prog_EMUZ80.htm
 
 ### What do we want?
 
